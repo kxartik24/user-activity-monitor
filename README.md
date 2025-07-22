@@ -53,7 +53,7 @@ UserActivityMonitor/
 - Export logs as CSV
 - User session summary
 
-  ## german and english
+ ## language used german and english
 
 ## License
 
@@ -61,4 +61,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-**Made with ❤️ using HTML, CSS, and JS**
+**Made with  using HTML, CSS, and JS**
